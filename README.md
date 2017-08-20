@@ -1,8 +1,11 @@
 # Node Todo App
 
+This app does not run!! Need to tweak the mongo db set up. Mean-app in anothe repo works.
+
 A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
 
 Node provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder.
+
 
 ## Requirements
 
